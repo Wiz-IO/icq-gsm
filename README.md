@@ -1,6 +1,6 @@
 # ICQ - GSM LG U8120 ( History )
 
-**Maybe** the first messenger **ICQ** for a mobile phone - 2005 year - my first IoТ steps...
+**Maybe** the first messenger **ICQ** for a mobile phones - 2005 year - my first IoТ steps...
 
 ![screen](https://raw.githubusercontent.com/Wiz-IO/icq-gsm/main/Res/logo.png)
 
