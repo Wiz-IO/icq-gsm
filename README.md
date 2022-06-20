@@ -2,7 +2,7 @@
 
 My first IoТ steps ... 2005 year
 
-**Maybe** the first messenger **ICQ** for a mobile phones
+**Maybe** the first messenger for a mobile phones - **ICQ**
 
 ![screen](https://raw.githubusercontent.com/Wiz-IO/icq-gsm/main/Res/logo.png)
 
